@@ -11,13 +11,15 @@ Add Commenting and headers to improve the readability of the code.
     - Extract the date, time, log level, module, and message from each log entry in the CSharp_Regex.md file.
 
 # Example Output:
-# {
-#    'date': '2023-10-01',
-#    'time': '12:34:56',
-#    'log_level': 'ERROR',
-#    'module': 'auth_module',
-#    'message': 'Failed to authenticate user'
-# }
+```
+{
+    'date': '2023-10-01',
+    'time': '12:34:56',
+    'log_level': 'ERROR',
+    'module': 'auth_module',
+    'message': 'Failed to authenticate user'
+ }
+```
 
 # CS Fix Practice
 - Given an existing CS File CSharp_Fix.md:
