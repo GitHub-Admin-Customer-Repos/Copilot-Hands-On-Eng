@@ -10,6 +10,5 @@ Examples:
 - Add Update Methods: Add methods to update fields of the models.
 - Add Validation Methods: Add methods to validate the data before saving or updating.
 - Manage Relationships: Add methods to manage relationships between models, such as adding items to an order
-- Update the unit tests in app_tests.py to test the new functionality.
 
 2. Use Copilot to add a new endpoint to the project that allows users to login and receive a JWT token.
