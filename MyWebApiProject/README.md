@@ -1,6 +1,6 @@
 # GitHub Copilot CSharp Labs
 
-We will be using a simple api project to practice enhancing an existing project with new functionality.  The project is a simple API that manages users and orders.  The project is written in Python and uses the Flask web framework.
+We will be using a simple api project to practice enhancing an existing project with new functionality.  The project is a simple API that manages users and orders.
 
 # Directions
 
