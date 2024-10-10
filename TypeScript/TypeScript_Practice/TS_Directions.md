@@ -17,6 +17,3 @@
     - Explain what the code does?
     - What ways can the code be improved to make it more flexible?
     - Find as many improvements as you can and implement them.
-
-# TS Dev Practice
-- Complete the exercises from advances-ts-rest-api/README.md
